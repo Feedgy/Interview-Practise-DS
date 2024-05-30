@@ -166,3 +166,6 @@ cython_debug/
 notebooks/data/*
 #data/*
 !notebooks/data/.gitkeep
+
+# Correction
+review/*
